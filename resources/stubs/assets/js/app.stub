@@ -1,0 +1,13 @@
+import { createApp } from 'vue'
+
+createApp({
+    data() {
+        return {
+            message: 'Hello Vue!'
+        }
+    },
+
+    mounted() {
+        console.log('Vue is working for this module');
+    }
+}).mount('#app')
