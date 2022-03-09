@@ -7,6 +7,8 @@ Npm commands will automatically build the CSS and JS for you so no publishing is
 
 `composer install`
 
+`php artisan key:generate`
+
 `npm install`
 
 `npm run dev`
