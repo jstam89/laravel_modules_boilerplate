@@ -430,6 +430,7 @@
                             @endforeach
                         </ul>
                     </div>
+                    <span class="text-sm">*Edit the shortcuts in de shortcuts config file</span>
                 </div>
             </div>
         </main>
